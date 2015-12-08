@@ -76,7 +76,7 @@ set(handles.slider4,'Value',1);
 set(handles.slider4,'Min',1);
 set(handles.slider4,'Max',60);
 set(handles.checkbox2,'Value',0);
-handles.folder_name='O:\Michael\2014';
+handles.folder_name='O:\Michael\2015';
 
 guidata(hObject, handles);
 
